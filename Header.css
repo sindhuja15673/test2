@@ -1,0 +1,46 @@
+.title{
+    background-color: black;
+    height: 40px;
+    width: 100%;
+    position: fixed;
+    font-family: 'Times New Roman', Times, serif;
+}
+.head{
+    display: inline-block;
+    font-size: 25px;
+    color: aliceblue;
+    margin-top: 3px;
+    margin-left: 20px;
+
+
+    
+    
+}
+.contact{
+    color: aliceblue;
+    float:right;
+    margin-top: 6px;
+    font-size: 25px;
+
+    margin-right:5px
+}
+body{
+    margin: 0px;
+}
+.home{
+    display: inline;
+    float: right;
+    color: aliceblue;
+    margin-right: 10px;
+    margin-top: 6px;
+
+}
+.about{
+    display: inline;
+    float: right;
+    color: aliceblue;
+    margin-right: 10px;
+    margin-top: 6px;
+    
+    
+}

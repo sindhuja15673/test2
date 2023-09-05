@@ -1,0 +1,12 @@
+.footer{
+    background-color: black;
+    color: aliceblue;
+    height: 40px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+
+}
+h2{
+    margin-top: 3px;
+}
